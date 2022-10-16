@@ -1,0 +1,68 @@
+==================================================================
+https://keybase.io/dacuteraccoon
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://dacuteraccoon.github.io
+  * I am dacuteraccoon (https://keybase.io/dacuteraccoon) on keybase.
+  * I have a public key with fingerprint 1D69 C7E7 4DF5 07D0 F6AB  021D B3E0 F45E E262 B351
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "0101d21cc4ac80f72e6cc387f912a631d5f0e744e0080a74a49f27a76f577e9057960a",
+      "fingerprint": "1d69c7e74df507d0f6ab021db3e0f45ee262b351",
+      "host": "keybase.io",
+      "key_id": "b3e0f45ee262b351",
+      "kid": "0101d21cc4ac80f72e6cc387f912a631d5f0e744e0080a74a49f27a76f577e9057960a",
+      "uid": "885ce765ac2290a07f72e1b5a556b419",
+      "username": "dacuteraccoon"
+    },
+    "service": {
+      "hostname": "dacuteraccoon.github.io",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 1
+  },
+  "ctime": 1642455756,
+  "expire_in": 157680000,
+  "prev": "58930868708669b702cf3f3ab58c840a205e3948b167f26f8912f67d08ef63cb",
+  "seqno": 7,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+-----BEGIN PGP MESSAGE-----
+Version: Keybase OpenPGP v2.1.13
+Comment: https://keybase.io/crypto
+
+yMInAnicrVJZSFVBGD5qmtpeZGAWdDDbzOYss5xrG1IgaC5BBRHc5syZoyftntu9
+594yKVKLFiqkKBCzIog2IgIpKIk2H0KFNKikkLB9MVqMqF6aY/XmY/Mwwz/zfd//
+/f/8d8ckSekJ06eTF18G351K6Lh1JibRl/2dtbLpWjVyoFau4kMHr7Z41AtWOZYc
+kIECFEtVGNMpI8DGKkeMaQTbhqJSpCkWtAHHus4BIIBineqGrWKKkQ0x5gaA2ECA
+yrmy7YQqeCQccUKekFUsZDAsiJYNAbaAjagJVMUyNQ5sHXKuItXUoCKIlW7UZwhz
+Jo3yPMcVdyIIDtkbBv+ffceG5AiBjGMEKVNVA1CAfUXFhBRCZOqK4QOjPBKiG7lA
+W5TFPB6hjLluSN6WK4unuMO4312/nOFgeRWOVxkz/9QXjriey9xqAar0vHA04It4
+NWGftZmbwb96QdMJWaKvghHnkagjkgUUgWSe4ydQkK7qEGKIcmW+JexEeNDxERAj
+AsTy8/C4kITE0ABBBIsNGSYGKrM1W6MmJIzogKoAcs3QiakgbKvIJqKJNhLfRriN
+NGbKfoWbQq4cwMImrRCSUaciRL1YhMvbbt9cN0JKSJdSkhP9eZPS08b/m8KyC6nS
+/rHzmhNHvy6ytNIfPcbX4wON5dmTG6bEraSmG7NbOtq/7avtnaWu3gmnxvqb2u/0
+N8/XL7Y94wtX312wCJ04n82f50/6vLXufMLRZSOXVz57PPPpjZbklF33LwxuH3xx
+L2PNgSDOfJIzAJe+scnajOxRbd+/vC9b2Sbllbwq/iSZ1888CgRrs37A/MGlpxuO
+SXviXW3ZWZm7sO51lV5LLPyZduRhktNwjtwsv5TblVzc3WNsWdG9qSi15ex6+m13
+fdreJQfvvClQxtV9rD7cUjDhQ6tCG9/2TLz8a9zVKxsKq+r7tq8tmDHnQdnJ7pKG
+zv6SHXNbm1f1FS8+lPmyqCk/p3fab/ClQ0M=
+=KyUh
+-----END PGP MESSAGE-----
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/dacuteraccoon
+
+==================================================================
